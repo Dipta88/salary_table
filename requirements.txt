@@ -1,0 +1,13 @@
+streamlit
+pandas
+PyPDF2 
+PdfReader
+io
+reportlab.lib
+colors
+reportlab.lib.pagesizes
+letter
+reportlab.platypus
+SimpleDocTemplate
+Table
+TableStyle
